@@ -22,6 +22,7 @@ ol li {
 
 .description,
 .ingredients,
-.steps {
+.steps,
+h1 {
   color: rgb(37, 37, 37);
 }
